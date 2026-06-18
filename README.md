@@ -28,14 +28,14 @@
 
 ### 方式一：下载预编译版本
 
-前往 [Releases](https://github.com/your-repo/releases) 下载对应平台的可执行文件。
+前往 [Releases](https://github.com/Moxin1044/ai_debate/releases) 下载对应平台的可执行文件。
 
 ### 方式二：从源码构建
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repo/ai_debate_py.git
-cd ai_debate_py
+git clone https://github.com/Moxin1044/ai_debate.git
+cd ai_debate
 
 # 安装依赖
 go mod download
