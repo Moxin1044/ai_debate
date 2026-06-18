@@ -1,0 +1,10 @@
+api:
+  key: ""
+  base_url: "https://api.siliconflow.cn/v1"
+  model: "deepseek-ai/DeepSeek-V4-Pro"
+
+debate:
+  default_rounds: 30
+  pro_temperature: 0.6
+  con_temperature: 1.0
+  judge_temperature: 0.3
